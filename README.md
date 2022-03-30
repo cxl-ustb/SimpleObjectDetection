@@ -8,4 +8,5 @@ json文件：image_width 与 image_height 代表图像的大小
          color为label成像中物体的rgb值（此处用不到）
          position_in_image为物体在图像中的位置：x与y分别代表xmin与xmax，z与w分别代表ymin与ymax
          mask_file表示图像在该文件夹下的具体命名
-         
+
+将Capture放在和code、data同一个目录下。
